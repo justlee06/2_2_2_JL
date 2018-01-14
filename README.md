@@ -5,9 +5,12 @@ Team Members: Justin Lee
 Description:
 This assignment was a lesson in using Backendless to add extra functionality to the CollegeApp.
 Team member roles in assignment: Justin - Coded the app and documentation
+
 Key Lessons learned:
 Summarize what you think important teaching points from the lesson were.  
+
 Some important teaching points from the lesson was learning what Backend as a Service was and how it helps your applications between more advanced. The lesson teaches how to add the Backendless SDK to your app project, and how to implement it. The lesson also taught how to connect our app to Backendless servers and create users. It also teaches how to save profile data onto the backendless servers, and retrieve them from the servers.
+
 Conclusion Questions
 1)  What are the benefits of adding a back end for an application? 
 
